@@ -55,3 +55,6 @@ extend会把module的实例方法作为类方法加入类中：
 3. 搞懂 Ruby 會去系統的哪裡找你 require 的 modules。
 
 在ruby安装文件/lib/ruby/#{版本号}/  内
+
+## 原文链接
+http://blog.csdn.net/qq_24519007/article/details/52636991
