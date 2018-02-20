@@ -2,8 +2,8 @@
 
 1. chinese version
 
-https://lrthw.github.io/
+  https://lrthw.github.io/
 
 2. english version
 
-https://learnrubythehardway.org/book/
+  https://learnrubythehardway.org/book/
