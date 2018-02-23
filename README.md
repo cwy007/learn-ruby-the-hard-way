@@ -1,14 +1,19 @@
 # the exercise source code of learn ruby the hard way
 
-1. chinese version
+#### 1. chinese version
 
   https://lrthw.github.io/
 
-2. english version
+#### 2. english version
 
   https://learnrubythehardway.org/book/
 
-# characters and others 
+#### 3. reference link
+
+  https://staceylearnscode.wordpress.com/2015/09/22/learn-ruby-the-hard-way-exercise-35-branches-and-functions/
+
+
+# characters and others
 
 ```
 # (octothorpe) - used as a "comment" character; anything that follows is not seem by the interpreter
