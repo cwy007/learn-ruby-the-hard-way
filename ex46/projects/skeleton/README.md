@@ -11,3 +11,5 @@ Rakefile – this is the file that the rake program uses to automate tests and g
 data – this directory is a place to store application data (for example, database, cache, session files).
 ext – this directory is for the extensions of your application.
 tests – this directory is where you put the tests for the gem
+
+https://staceylearnscode.wordpress.com/2015/10/03/learn-ruby-the-hard-way-exercise-46-a-project-skeleton/
